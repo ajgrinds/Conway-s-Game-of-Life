@@ -25,7 +25,7 @@ class Game:
                 if y == 1:
                     print("■", end="")
                 else:
-                    print(" ", end="")
+                    print("▢", end="")
             print()
         print()
 
